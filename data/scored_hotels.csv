@@ -1,0 +1,61 @@
+hotel_id,hotel_name,region,google_rating,rooms,pool,wellness_score,image_score,demand_score,deal_score,status,owner,potential_revenue,follow_up_date,qualified,wellness_points,image_points,reputation_points,demand_points,capacity_points,lead_score,priority
+19,Demo Wellnesshotel 19,Berchtesgadener Land,4.2,158,True,5,5,4,2,Kontaktiert,Sophie,28000,2026-11-17,True,100,100,84.0,80,100.0,93.8,A
+25,Demo Wellnesshotel 25,Allgäu,4.6,34,True,5,4,5,5,Gewonnen,Nicht zugewiesen,8000,2026-11-03,True,100,80,92.0,100,61.333333333333336,89.5,A
+51,Demo Wellnesshotel 51,Oberbayern,4.1,169,True,5,4,4,1,Neu,Max,14000,2026-11-11,True,100,80,82.0,80,100.0,88.4,A
+13,Demo Wellnesshotel 13,Franken,4.6,149,True,3,5,5,2,Neu,Sophie,7500,2026-11-13,True,60,100,92.0,100,99.66666666666667,86.4,A
+28,Demo Wellnesshotel 28,Oberbayern,4.0,38,True,4,5,5,1,Kontaktiert,Sophie,5000,2026-11-19,True,80,100,80.0,100,62.666666666666664,86.3,A
+11,Demo Wellnesshotel 11,Chiemgau,4.4,128,True,4,4,5,4,Neu,Anna,19500,2026-11-10,True,80,80,88.0,100,92.66666666666666,85.9,A
+58,Demo Wellnesshotel 58,Chiemgau,4.9,47,True,3,5,4,4,Gewonnen,Anna,25500,2026-11-08,True,60,100,98.0,80,65.66666666666667,81.2,A
+30,Demo Wellnesshotel 30,Franken,5.0,155,True,5,3,1,2,Gewonnen,Sophie,11000,2026-11-05,True,100,60,100.0,20,100.0,78.0,B
+53,Demo Wellnesshotel 53,Berchtesgadener Land,4.5,123,True,4,2,5,5,Angebot angefragt,Sophie,3500,2026-11-14,True,80,40,90.0,100,91.0,76.1,B
+57,Demo Wellnesshotel 57,Oberbayern,4.5,164,True,4,3,3,2,Kontaktiert,Max,22000,2026-11-21,True,80,60,90.0,60,100.0,76.0,B
+59,Demo Wellnesshotel 59,Berchtesgadener Land,4.7,82,True,3,5,1,5,Neu,Nicht zugewiesen,28000,2026-11-03,True,60,100,94.0,20,77.33333333333334,72.5,B
+52,Demo Wellnesshotel 52,Franken,4.6,159,True,4,2,3,4,Angebot angefragt,Leon,18500,2026-11-02,True,80,40,92.0,60,100.0,71.4,B
+15,Demo Wellnesshotel 15,Chiemgau,4.8,40,True,4,1,5,2,Kontaktiert,Anna,7000,2026-11-23,True,80,20,96.0,100,63.333333333333336,69.5,B
+40,Demo Wellnesshotel 40,Berchtesgadener Land,4.2,153,True,3,4,1,3,Interessiert,Anna,22500,2026-11-12,True,60,80,84.0,20,100.0,67.8,B
+6,Demo Wellnesshotel 06,Bayerischer Wald,4.2,113,True,3,3,2,3,Neu,Leon,25000,2026-11-23,True,60,60,84.0,40,87.66666666666666,64.6,B
+23,Demo Wellnesshotel 23,Chiemgau,4.1,143,True,4,1,2,4,Neu,Max,3000,2026-11-14,True,80,20,82.0,40,97.66666666666666,61.2,B
+47,Demo Wellnesshotel 47,Allgäu,4.2,138,False,4,5,5,4,Verhandlung,Max,29500,2026-11-19,False,80,100,84.0,100,96.0,90.4,Nicht qualifiziert
+45,Demo Wellnesshotel 45,Allgäu,3.9,141,True,4,4,5,2,Kontaktiert,Anna,25500,2026-11-24,False,80,80,78.0,100,97.0,84.3,Nicht qualifiziert
+39,Demo Wellnesshotel 39,Franken,4.2,100,False,5,5,1,4,Neu,Anna,21000,2026-11-08,False,100,100,84.0,20,83.33333333333334,83.1,Nicht qualifiziert
+41,Demo Wellnesshotel 41,Berchtesgadener Land,4.9,149,False,4,3,4,3,Gewonnen,Anna,20500,2026-11-06,False,80,60,98.0,80,99.66666666666667,80.6,Nicht qualifiziert
+2,Demo Wellnesshotel 02,Allgäu,3.8,149,True,5,2,5,4,Neu,Anna,10000,2026-11-16,False,100,40,76.0,100,99.66666666666667,80.2,Nicht qualifiziert
+20,Demo Wellnesshotel 20,Allgäu,3.6,130,False,4,4,4,1,Angebot angefragt,Max,24500,2026-11-22,False,80,80,72.0,80,93.33333333333334,79.7,Nicht qualifiziert
+42,Demo Wellnesshotel 42,Berchtesgadener Land,4.9,64,False,4,5,1,3,Kontaktiert,Leon,12000,2026-11-08,False,80,100,98.0,20,71.33333333333333,78.7,Nicht qualifiziert
+43,Demo Wellnesshotel 43,Franken,4.5,139,False,4,2,5,4,Angebot angefragt,Nicht zugewiesen,28000,2026-11-25,False,80,40,90.0,100,96.33333333333334,76.6,Nicht qualifiziert
+50,Demo Wellnesshotel 50,Berchtesgadener Land,3.7,74,True,4,4,3,5,Kontaktiert,Leon,17500,2026-11-15,False,80,80,74.0,60,74.66666666666667,75.3,Nicht qualifiziert
+49,Demo Wellnesshotel 49,Allgäu,4.6,80,False,3,3,5,1,Interessiert,Leon,7000,2026-11-06,False,60,60,92.0,100,76.66666666666667,74.1,Nicht qualifiziert
+7,Demo Wellnesshotel 07,Franken,4.5,156,True,2,4,4,3,Gewonnen,Anna,23000,2026-11-24,False,40,80,90.0,80,100.0,72.0,Nicht qualifiziert
+48,Demo Wellnesshotel 48,Berchtesgadener Land,4.8,135,False,2,3,5,4,Angebot angefragt,Max,23000,2026-11-09,False,40,60,96.0,100,95.0,70.7,Nicht qualifiziert
+16,Demo Wellnesshotel 16,Chiemgau,3.9,175,False,2,5,2,3,Angebot angefragt,Nicht zugewiesen,15500,2026-11-23,False,40,100,78.0,40,100.0,68.6,Nicht qualifiziert
+55,Demo Wellnesshotel 55,Bayerischer Wald,4.0,117,False,4,3,1,4,Kontaktiert,Leon,3500,2026-11-25,False,80,60,80.0,20,89.0,66.9,Nicht qualifiziert
+26,Demo Wellnesshotel 26,Chiemgau,3.6,37,True,4,1,5,2,Verhandlung,Anna,21500,2026-11-21,False,80,20,72.0,100,62.333333333333336,64.6,Nicht qualifiziert
+3,Demo Wellnesshotel 03,Allgäu,4.6,60,False,3,3,2,2,Verhandlung,Sophie,27000,2026-11-12,False,60,60,92.0,40,70.0,64.4,Nicht qualifiziert
+4,Demo Wellnesshotel 04,Oberbayern,3.6,108,False,1,4,5,1,Neu,Anna,15000,2026-11-04,False,20,80,72.0,100,86.0,64.0,Nicht qualifiziert
+27,Demo Wellnesshotel 27,Allgäu,4.1,169,False,3,2,3,2,Neu,Nicht zugewiesen,11000,2026-11-14,False,60,40,82.0,60,100.0,63.4,Nicht qualifiziert
+31,Demo Wellnesshotel 31,Chiemgau,3.9,174,True,3,2,3,5,Neu,Nicht zugewiesen,18500,2026-11-10,False,60,40,78.0,60,100.0,62.6,Nicht qualifiziert
+60,Demo Wellnesshotel 60,Oberbayern,4.5,37,False,1,4,4,1,Interessiert,Nicht zugewiesen,16500,2026-11-13,False,20,80,90.0,80,62.333333333333336,62.2,Nicht qualifiziert
+10,Demo Wellnesshotel 10,Berchtesgadener Land,4.4,169,False,3,2,2,5,Verhandlung,Sophie,18500,2026-11-04,False,60,40,88.0,40,100.0,61.6,Nicht qualifiziert
+14,Demo Wellnesshotel 14,Franken,4.9,173,False,4,1,1,3,Kontaktiert,Nicht zugewiesen,29500,2026-11-11,False,80,20,98.0,20,100.0,61.6,Nicht qualifiziert
+46,Demo Wellnesshotel 46,Oberbayern,3.9,21,True,4,2,2,5,Angebot angefragt,Leon,17500,2026-11-03,False,80,40,78.0,40,57.0,61.3,Nicht qualifiziert
+22,Demo Wellnesshotel 22,Bayerischer Wald,4.2,39,False,5,1,1,5,Angebot angefragt,Max,29500,2026-11-02,False,100,20,84.0,20,63.0,61.1,Nicht qualifiziert
+12,Demo Wellnesshotel 12,Berchtesgadener Land,4.6,157,False,3,1,3,4,Verhandlung,Anna,8000,2026-11-16,False,60,20,92.0,60,100.0,60.4,Nicht qualifiziert
+54,Demo Wellnesshotel 54,Berchtesgadener Land,3.5,129,True,4,2,1,3,Verhandlung,Nicht zugewiesen,15000,2026-11-12,False,80,40,70.0,20,93.0,60.3,Nicht qualifiziert
+9,Demo Wellnesshotel 09,Chiemgau,4.5,121,False,2,3,2,2,Verhandlung,Sophie,26500,2026-11-19,False,40,60,90.0,40,90.33333333333333,60.0,Nicht qualifiziert
+29,Demo Wellnesshotel 29,Bayerischer Wald,3.7,109,True,2,3,3,2,Kontaktiert,Nicht zugewiesen,17000,2026-11-19,False,40,60,74.0,60,86.33333333333333,59.4,Nicht qualifiziert
+1,Demo Wellnesshotel 01,Allgäu,4.6,82,True,2,1,5,1,Gewonnen,Anna,21500,2026-11-15,False,40,20,92.0,100,77.33333333333334,58.1,Nicht qualifiziert
+24,Demo Wellnesshotel 24,Bayerischer Wald,4.1,162,False,2,2,3,2,Interessiert,Leon,4500,2026-11-20,False,40,40,82.0,60,100.0,57.4,Nicht qualifiziert
+35,Demo Wellnesshotel 35,Bayerischer Wald,4.7,124,True,2,2,2,4,Gewonnen,Anna,3500,2026-11-07,False,40,40,94.0,40,91.33333333333333,55.9,Nicht qualifiziert
+36,Demo Wellnesshotel 36,Oberbayern,4.7,83,False,2,1,4,1,Gewonnen,Sophie,30000,2026-11-17,False,40,20,94.0,80,77.66666666666666,55.6,Nicht qualifiziert
+8,Demo Wellnesshotel 08,Berchtesgadener Land,4.0,34,True,1,3,4,3,Verhandlung,Max,5000,2026-11-08,False,20,60,80.0,80,61.333333333333336,55.1,Nicht qualifiziert
+34,Demo Wellnesshotel 34,Chiemgau,4.1,30,False,3,1,3,2,Verhandlung,Nicht zugewiesen,24500,2026-11-09,False,60,20,82.0,60,60.0,54.4,Nicht qualifiziert
+17,Demo Wellnesshotel 17,Oberbayern,4.8,135,True,2,2,1,3,Gewonnen,Sophie,3500,2026-11-20,False,40,40,96.0,20,95.0,53.7,Nicht qualifiziert
+33,Demo Wellnesshotel 33,Berchtesgadener Land,4.1,22,True,1,2,5,1,Angebot angefragt,Nicht zugewiesen,29500,2026-11-13,False,20,40,82.0,100,57.333333333333336,53.1,Nicht qualifiziert
+21,Demo Wellnesshotel 21,Allgäu,4.1,106,True,2,2,2,5,Gewonnen,Anna,17000,2026-11-06,False,40,40,82.0,40,85.33333333333333,52.9,Nicht qualifiziert
+44,Demo Wellnesshotel 44,Bayerischer Wald,4.3,178,False,1,2,3,2,Kontaktiert,Anna,28500,2026-11-08,False,20,40,86.0,60,100.0,52.2,Nicht qualifiziert
+37,Demo Wellnesshotel 37,Oberbayern,4.0,78,True,1,2,4,3,Kontaktiert,Max,11500,2026-11-04,False,20,40,80.0,80,76.0,51.6,Nicht qualifiziert
+32,Demo Wellnesshotel 32,Berchtesgadener Land,4.1,90,True,1,3,2,3,Neu,Anna,8000,2026-11-25,False,20,60,82.0,40,80.0,51.4,Nicht qualifiziert
+38,Demo Wellnesshotel 38,Berchtesgadener Land,4.3,157,False,1,1,3,2,Interessiert,Sophie,21500,2026-11-10,False,20,20,86.0,60,100.0,47.2,Nicht qualifiziert
+56,Demo Wellnesshotel 56,Bayerischer Wald,3.8,37,True,1,2,2,1,Verhandlung,Anna,22500,2026-11-06,False,20,40,76.0,40,62.333333333333336,43.4,Nicht qualifiziert
+5,Demo Wellnesshotel 05,Berchtesgadener Land,4.4,112,True,1,1,2,3,Verhandlung,Sophie,5500,2026-11-09,False,20,20,88.0,40,87.33333333333334,43.3,Nicht qualifiziert
+18,Demo Wellnesshotel 18,Franken,3.8,38,True,2,1,1,3,Verhandlung,Max,5000,2026-11-18,False,40,20,76.0,20,62.666666666666664,41.5,Nicht qualifiziert
